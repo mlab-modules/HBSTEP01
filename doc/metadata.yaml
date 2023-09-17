@@ -1,0 +1,20 @@
+description: HBSTEP01A
+github_branch: HBSTEP01A
+github_description: HBSTEP01A
+github_repo: HBSTEP01
+github_url: https://github.com/mlab-modules/HBSTEP01
+homepage: false
+images:
+- doc/img/HBSTEP01A_top_big.jpg
+- doc/img/HBSTEP01A_bottom_small.jpg
+- doc/img/HBSTEP01A_bottom_big.jpg
+- doc/img/HBSTEP01A_Wiring_big.jpg
+- doc/img/HBSTEP01A_2.jpg
+- doc/img/HBSTEP01A_top_small.jpg
+- doc/img/HBSTEP01A_1.jpg
+- doc/img/HBSTEP01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: HBSTEP01
+updated: '2023-09-17T11:30:08.759547+00:00'
