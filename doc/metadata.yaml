@@ -1,20 +1,27 @@
-description: HBSTEP01A
+description: 'Stepper motor driver '
 github_branch: HBSTEP01A
-github_description: HBSTEP01A
+github_description: 'Stepper motor driver '
 github_repo: HBSTEP01
 github_url: https://github.com/mlab-modules/HBSTEP01
 homepage: false
 images:
 - doc/img/HBSTEP01A_top_big.jpg
 - doc/img/HBSTEP01A_bottom_small.jpg
-- doc/img/HBSTEP01A_bottom_big.jpg
 - doc/img/HBSTEP01A_Wiring_big.jpg
 - doc/img/HBSTEP01A_2.jpg
 - doc/img/HBSTEP01A_top_small.jpg
+- doc/img/HBSTEP01A_bottom_big.jpg
 - doc/img/HBSTEP01A_1.jpg
 - doc/img/HBSTEP01A_QRcode.png
 mark: 50
 status: 2
-tags: []
+tags:
+- motor
+- motor-control
+- motor-controller
+- power
+- stepp
+- stepper-motor-control
+- stepper-motor-driver
 title: HBSTEP01
-updated: '2023-09-17T11:49:24.416706+00:00'
+updated: '2024-05-18T19:50:35.754755+00:00'
