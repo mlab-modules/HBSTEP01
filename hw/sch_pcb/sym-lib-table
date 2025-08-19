@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 0)
-  (lib (name "HBSTEP01B-rescue")(type "Legacy")(uri "${KIPRJMOD}/HBSTEP01B-rescue.lib")(options "")(descr ""))
-)
