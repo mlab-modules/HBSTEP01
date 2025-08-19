@@ -4,6 +4,7 @@ github_description: Stepper Motor Driver Module based on L6470
 github_repo: HBSTEP01
 github_url: https://github.com/mlab-modules/HBSTEP01
 homepage: false
+image_title: doc/img/HBSTEP01B_top_big.jpg
 images:
 - doc/img/spi.jpg
 - doc/img/20160929_180505.jpg
@@ -21,7 +22,7 @@ images:
 mark: 50
 mod_ibom: hw/cam_profi/HBSTEP01-ibom.html
 mod_scheme: doc/gen/HBSTEP01-schematic.pdf
-status: 0
+status: 2
 tags:
 - motor
 - motor-control
