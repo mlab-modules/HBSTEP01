@@ -1,6 +1,6 @@
-description: 'Stepper motor driver '
+description: Stepper Motor Driver Module based on L6470
 github_branch: HBSTEP01B
-github_description: 'Stepper motor driver '
+github_description: Stepper Motor Driver Module based on L6470
 github_repo: HBSTEP01
 github_url: https://github.com/mlab-modules/HBSTEP01
 homepage: false
@@ -31,4 +31,4 @@ tags:
 - stepper-motor-control
 - stepper-motor-driver
 title: HBSTEP01
-updated: '2025-08-19T22:19:13.702658+00:00'
+updated: '2025-08-19T22:28:36.220914+00:00'
